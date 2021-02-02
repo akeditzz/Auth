@@ -17,6 +17,7 @@ const style = StyleSheet.create({
         flex: 1,
         margin: 8,
         height: 40,
+        flexDirection:'row',
         justifyContent: 'center',
         alignItems: 'center'
     },
